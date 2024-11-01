@@ -329,20 +329,4 @@ Examples:
 // Run the exercise
 exercise.start(duration, pattern, style);
 
-// # Basic usage (3 minutes, square breathing, circle visualization)
-// bun run breathing.ts
 
-// # Custom duration (in seconds), pattern, and style
-// bun run breathing.ts 120 relaxed wave
-
-// # Available patterns:
-// # - square (4-4-4-4)
-// # - relaxed (4-7-8-0)
-// # - zen (6-0-6-0)
-// # - energy (2-0-2-0)
-
-// # Available styles:
-// # - circle
-// # - wave
-// # - lotus
-// # - zen
